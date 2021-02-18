@@ -2,15 +2,15 @@
 # react-native-simple-shadow-view
 
 This Module is updated version of https://github.com/ConduitMobileRND/react-native-simple-shadow-view
-There was some AndroidX issue with actual version.
+There was some AndroidX issue with actual version. In addition, support has been added to work with react-native web.
 
 ## Getting started
 
-`$ npm install @vikasrg/react-native-simple-shadow-view --save`
+`$ npm install @gigsmart/react-native-simple-shadow-view --save`
 
 ### Mostly automatic installation
 
-`$ react-native link @vikasrg/react-native-simple-shadow-view`
+`$ react-native link @gigsmart/react-native-simple-shadow-view`
 
 ### Manual installation
 
